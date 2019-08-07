@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Company>Essensoft</Company>
+    <Authors>Roc</Authors>
+    <Product>Payment</Product>
+    <Version>1.5.0</Version>
+    <AssemblyVersion>1.5.0.0</AssemblyVersion>
+    <FileVersion>1.5.0.0</FileVersion>
+    <Description>ASP.NET Core Payment for Security.</Description>
+    <Copyright>© Essensoft 2018</Copyright>
+    <PackageProjectUrl>https://github.com/Essensoft/Payment</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Essensoft/Payment</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Essensoft.AspNetCore.Payment.Security</PackageId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Portable.BouncyCastle" Version="1.8.2" />
+  </ItemGroup>
+
+</Project>

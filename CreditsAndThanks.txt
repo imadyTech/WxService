@@ -1,0 +1,8 @@
+2018-12-28
+微信上传临时素材参考了<niunan>的博客：
+https://blog.csdn.net/niunan/article/details/78046471
+
+2018-12-29
+微信下载临时素材时参考了	<衍夏成歌>的博客
+http上传/下载文件时，Content-Disposition的使用
+https://blog.csdn.net/sinat_38364990/article/details/70867357

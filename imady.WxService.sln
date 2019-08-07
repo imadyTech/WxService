@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExploreRunner", "ExploreRunner\ExploreRunner.csproj", "{4E040408-4D2D-4055-A11A-AA48741BF70C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.Domain", "5.Domain", "{78545BF4-2B39-4450-8D9F-862BBF02BB3F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0.Applications", "0.Applications", "{30B30FDF-3900-4C58-AC4A-88DA749C2931}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.API", "1.API", "{B348D34D-4F9C-421C-94C7-5A49747E8E7A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Repository", "3.Repository", "{631AD944-842F-4644-A1C1-801233A97DDF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0.Utilities", "0.Utilities", "{1F8BD705-7329-417B-A58C-4516706B2066}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.DAL", "4.DAL", "{F6006761-3C74-450A-8A59-39726379561F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Service", "2.Service", "{C27AEB80-2CB1-4F44-9B00-9FE643518A15}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6.Common", "6.Common", "{18BCA409-57B9-4103-9863-756BBBE00A3A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Meiyu.XUnit", "Meiyu.XUnit\Meiyu.XUnit.csproj", "{00319840-0F78-40AF-B3F3-2507E7EAD2CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{46522D4C-2AA9-46CC-8EF8-302E58555B6B}"
+	ProjectSection(SolutionItems) = preProject
+		CreditsAndThanks.txt = CreditsAndThanks.txt
+		License.txt = License.txt
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "imady.WxService", "imady.WxService\imady.WxService.csproj", "{596671EE-77CC-402B-B103-8EBC752DD2D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E040408-4D2D-4055-A11A-AA48741BF70C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E040408-4D2D-4055-A11A-AA48741BF70C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E040408-4D2D-4055-A11A-AA48741BF70C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E040408-4D2D-4055-A11A-AA48741BF70C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00319840-0F78-40AF-B3F3-2507E7EAD2CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00319840-0F78-40AF-B3F3-2507E7EAD2CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00319840-0F78-40AF-B3F3-2507E7EAD2CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00319840-0F78-40AF-B3F3-2507E7EAD2CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{596671EE-77CC-402B-B103-8EBC752DD2D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{596671EE-77CC-402B-B103-8EBC752DD2D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{596671EE-77CC-402B-B103-8EBC752DD2D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{596671EE-77CC-402B-B103-8EBC752DD2D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4E040408-4D2D-4055-A11A-AA48741BF70C} = {1F8BD705-7329-417B-A58C-4516706B2066}
+		{00319840-0F78-40AF-B3F3-2507E7EAD2CC} = {1F8BD705-7329-417B-A58C-4516706B2066}
+		{596671EE-77CC-402B-B103-8EBC752DD2D2} = {C27AEB80-2CB1-4F44-9B00-9FE643518A15}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA180829-4EA8-4C3B-BCF1-0379C9588BE6}
+	EndGlobalSection
+EndGlobal
