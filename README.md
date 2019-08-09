@@ -1,4 +1,4 @@
-#6: imady.WxService
+#imady.WxService
 
 imady.WxService is a SDK allow you build up your WeChat application more easily. Currently the versio 0.1.5 provided the following features:
 # Supported:
