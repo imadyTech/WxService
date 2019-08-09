@@ -1,3 +1,46 @@
-# Quickstart #6: IdentityServer and ASP.NET Identity
+#6: imady.WxService
 
-This quickstart uses ASP.NET Identity for identity management.
+imady.WxService is a SDK allow you build up your WeChat application more easily. Currently the versio 0.1.5 provided the following features:
+# Supported:
+
+        #region ==============微信基本身份获取（AccessToken和网页授权）=================   
+
+        #region ===============菜单管理================   
+
+        #region ===============素材管理================  
+
+        #region ===============消息管理（被动消息接收和回复）================
+
+
+# coming soon: 
+        #region ===============微信支付================   
+
+        #region ===============用户管理================  
+
+        #region ===============账号管理（带参二维码、微信认证）================  
+
+        #region ===============数据统计（用户、图文、消息、接口数据等分析）================  
+
+        #region ===============微信卡券================  
+
+        #region ===============微信门店================  
+
+        #region ===============微信小店（微信商铺）================  
+
+        #region ===============微信智能AI接口（语音、AI）================  
+
+        #region ===============微信设备功能（硬件）================  
+
+        #region ===============新版微信客服接口（CustomService）================  
+
+        #region ===============微信摇一摇周边(Shakearound)================  
+
+        #region ===============微信连Wi-Fi接口（Bizwifi）================  
+
+        #region ===============微信扫一扫（Scan）================  
+
+        #region ===============微信发票（Invoice）================  
+
+        #region ===============其它（）================  
+
+
