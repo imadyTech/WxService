@@ -1,7 +1,7 @@
 # imady.WxService
 
 
-imady.WxService is a SDK allow you build up your WeChat application more easily. Currently the versio 0.1.5 provided the following features:
+imady.WxService is a SDK allow you build up your WeChat application more easily. Currently version 0.1.5 provided the following features:
 # Supported:
 
         #region ==============微信基本身份获取（AccessToken和网页授权）=================   
