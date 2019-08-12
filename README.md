@@ -1,5 +1,10 @@
 # imady.WxService
 
+# 2019-08-12 Update
+Nuget package is available to download through nuget.org:
+~~~
+PM> Install-Package imady.WxService -Version 0.1.6
+~~~
 
 imady.WxService is a SDK allow you build up your WeChat application more easily. Currently version 0.1.5 provided the following features:
 # Supported:
