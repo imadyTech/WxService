@@ -8,7 +8,7 @@ using imady.Domain;
 
 namespace imady.WxContext
 {
-    public interface IWxBaseContext<T> where T : MeiyuBaseEntity
+    public interface IWxBaseContext<T> where T : BaseEntity
     {
 
         DbSet<T> Set();

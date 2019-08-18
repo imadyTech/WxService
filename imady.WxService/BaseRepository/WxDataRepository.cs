@@ -8,7 +8,7 @@ using System.Linq;
 
 namespace imady.Repository
 {
-    public class WxDataRepository<T> : IWxDataRepository<T> where T : MeiyuBaseEntity
+    public class WxDataRepository<T> : IWxDataRepository<T> where T: BaseEntity
     {
         private IWxBaseContext<T> Context;
         private DbSet<T> Entities
