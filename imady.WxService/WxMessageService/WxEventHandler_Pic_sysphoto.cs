@@ -28,7 +28,7 @@ namespace imady.WxService
             {
                 ToUserName = ((WxMessage)message).FromUserName,
                 FromUserName = ((WxMessage)message).ToUserName,
-                Content = "The MsgType of Event_Pic_photo_or_album was successfully handled."
+                Content = "The MsgType of Event_Pic_photo was successfully handled."
             };
 
             return await Task.FromResult(reply);
