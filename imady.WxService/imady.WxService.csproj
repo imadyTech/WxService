@@ -37,7 +37,7 @@
     <PackageReference Include="npgsql.entityframeworkcore.postgresql" Version="2.1.0" />
     <PackageReference Include="npgsql.entityframeworkcore.postgresql.design" Version="1.1.1" />
     <PackageReference Include="portable.bouncycastle" Version="1.8.3" />
-    <PackageReference Include="system.text.encodings.web" Version="4.5.0" />
+    <PackageReference Include="system.text.encodings.web" Version="4.5.1" />
   </ItemGroup>
 
   <ItemGroup>
